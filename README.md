@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour👋, je suis  François Villalba</h1>
 <h3 align="center">Un développeur Full-Stack qui a soif de code</h3>
 
-- 🔭 Je travaille actuellement sur **JDR Compagnion**
+- 🔭 Je travaille actuellement sur **JDR Compagnon**
 
 - 🌱 Actuellement, en stage **pour Le Wagon**
 
@@ -9,7 +9,7 @@
 
 - 🤝 Ainsi que sur [Green Garden Project](https://green-garden-project-ifazar-92d60308f4ed.herokuapp.com)
 
-- 💬 Mon CV [Mon CV](https://www.namecheap.com/)
+- 💬 Mon CV [Mon CV](https://cvdesignr.com/p/65770e1e1ed10)
 
 - 📫 Comment me joindre **villalbajunior@msn.com**
 
