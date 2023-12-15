@@ -9,7 +9,7 @@
 
 - 🤝 Ainsi que sur [Green Garden Project](https://green-garden-project-ifazar-92d60308f4ed.herokuapp.com)
 
-- 💬 Demande moi à propos de **mes passions**
+- 💬 Mon CV [Mon CV](https://www.namecheap.com/)
 
 - 📫 Comment me joindre **villalbajunior@msn.com**
 
